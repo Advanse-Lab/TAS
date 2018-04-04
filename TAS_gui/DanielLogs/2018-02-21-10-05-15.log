@@ -1,0 +1,92 @@
+INFO:************* START TASK *************
+INFO:************* Before executing workflow!!*************
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7117837986547036
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************* After executing workflow!! *************
+INFO:************* START TASK *************
+INFO:************* Before executing workflow!!*************
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.752325622830352
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: PreferencesQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.752325622830352
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************* After executing workflow!! *************
+INFO:************* START TASK *************
+INFO:************* Before executing workflow!!*************
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9066460418284132
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: ReliabilityQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9066460418284132
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************* After executing workflow!! *************
+INFO:************* START TASK *************
+INFO:************* Before executing workflow!!*************
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8105288054198849
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8105288054198849
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************* After executing workflow!! *************
+INFO:************* START TASK *************
+INFO:************* Before executing workflow!!*************
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.0743277316323393
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************* After executing workflow!! *************
+INFO:************* START TASK *************
+INFO:************* Before executing workflow!!*************
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.026686307754845706
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************* After executing workflow!! *************
+INFO:************* START TASK *************
+INFO:************* Before executing workflow!!*************
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2579728890957962
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************* After executing workflow!! *************
+INFO:************* START TASK *************
+INFO:************* Before executing workflow!!*************
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9532827328278446
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9532827328278446
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************* After executing workflow!! *************
+INFO:************* START TASK *************
+INFO:************* Before executing workflow!!*************
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6726754214450905
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************* After executing workflow!! *************
+INFO:************* START TASK *************
+INFO:************* Before executing workflow!!*************
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.561490117733818
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************* After executing workflow!! *************

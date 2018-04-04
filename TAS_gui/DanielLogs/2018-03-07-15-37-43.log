@@ -1,0 +1,2908 @@
+INFO:************* START TASK *************
+INFO:************* Before executing workflow!!*************
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5172637713631913
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3066132169470933
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.22043380837104753
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.704906078530025
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.894877704201679
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.894877704201679
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.013217710698666951
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.37469739110064504
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9515242476538633
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9515242476538633
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7370967809701049
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.45273136368410427
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7912516401765948
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7912516401765948
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4441753534818029
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.831456650495718
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.831456650495718
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5217046201270608
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4608016093310331
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6772934619279125
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9220639922049996
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9220639922049996
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3529295792675665
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.29206587410249674
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7195280160900307
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.21477610673919867
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3067697157339332
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.1929263293011555
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.16558430140936342
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.21944817069984324
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.24765437842049143
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.11585808024077504
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8946062310730497
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8946062310730497
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.02766742916245435
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3928781108783431
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2954533943629035
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7586672896320605
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7586672896320605
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3284946814905887
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9515084657340753
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9515084657340753
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.12557954873262522
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8962241593580648
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8962241593580648
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9500858040561385
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9500858040561385
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.23312082075621776
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.12468781488699732
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9679271554385978
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9679271554385978
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.481667035714202
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8992416454496059
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8992416454496059
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.22001681523704064
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.24596986263465448
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5781892356404199
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5547969017000314
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.1449101210221544
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.15320042674255963
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8790885170317279
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8790885170317279
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9325254984811961
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9325254984811961
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.08819488306418943
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5445049795142096
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.08293161214586597
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5102321329203752
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8605443309765799
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8605443309765799
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7505137187123793
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7505137187123793
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6113259564605303
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.518917918179886
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.749974051400519
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.16246836630999728
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4683264794453381
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9492410120554342
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9492410120554342
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9270979751026224
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9270979751026224
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.927129335937251
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.927129335937251
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.35567216015780767
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3444239278904859
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7304970823417227
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.1418900183871311
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8395371718248785
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8395371718248785
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8796379008465269
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8796379008465269
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4135302025582144
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7928040370004467
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7928040370004467
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.38108306628910016
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.47105886435112365
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9661425491053165
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9661425491053165
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5620214725477283
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.34094995158465524
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4322038464365663
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4387046268927799
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5461676927791815
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6469259641605366
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5008202680304804
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7896408224674779
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7896408224674779
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8734890734557585
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8734890734557585
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.674386425456133
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8965151455775938
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8965151455775938
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6545825573516181
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.1851275751376703
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.030694963507247763
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.43747473581603147
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5920089922813119
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9546760437965449
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9546760437965449
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.357611166820221
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6440399611774095
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.29881341380747506
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6602049253761336
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9698500694684326
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9698500694684326
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.1875659653895707
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.008960771339263318
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8942399572422585
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8942399572422585
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.13329120659333393
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.004909423549899206
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7893783669940865
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7893783669940865
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5997098445761978
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.052935924481635754
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8920502094504279
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8920502094504279
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7294477901955498
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7536716656770752
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7536716656770752
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.18856326961205505
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.41476898190669653
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.08394338355221254
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9856608795339685
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9856608795339685
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3451367141877565
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5299654510790465
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2739885313770093
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8138020487853407
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8138020487853407
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.09536518841533959
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.39811695254484336
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.27657800813558986
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4093553389706387
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.483423306029923
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.48554052585191243
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3404410061244332
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.05916264490699008
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.631687900246168
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.20453581320124936
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.15449609934022812
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7854968999764268
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7854968999764268
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.826448827065113
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.826448827065113
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.02015040514295141
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5648756828631001
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9041065685164703
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9041065685164703
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8939038705757213
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8939038705757213
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.16422297396177588
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6874748293527313
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6537865319271265
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.19434924886055405
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8405239332776119
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8405239332776119
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7952045842800652
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7952045842800652
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4145960787032208
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.36032857993998557
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.07922711808812943
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6726081566304914
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4468830221575798
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9836047911130098
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9836047911130098
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.20461028512881618
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.22522314416330802
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5295626899198944
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8161711036563746
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8161711036563746
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.21679623965336026
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.0070510442565334674
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3536393615993537
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6921186746100868
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.25651028035880297
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9867208079355178
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9867208079355178
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.03574642034437425
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.30003011573647154
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7212439556368918
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3114104619185023
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6565214013268041
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.13966954926172725
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5318790667652039
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.04731676687194364
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.29992022558396336
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.48209162223396085
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.51073989899491
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8764399731457956
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8764399731457956
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6721147029426783
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9188934051147035
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9188934051147035
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8252059438569284
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8252059438569284
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5116770409030886
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.012406026803284287
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.13418442006772557
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9754308523134242
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9754308523134242
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.1556933422573048
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6736261651107935
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8619518955753096
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8619518955753096
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8603782787024546
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8603782787024546
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6737691733318019
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.44578835865252486
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.601849951637629
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.043298599923183745
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2767943575345376
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.42428638641984806
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5580426050815833
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.45593493499881266
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.41781068531032417
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9827321578362784
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9827321578362784
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.43858240971192586
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.43016088241227834
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.29397813370923276
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.20055932453415792
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.20690806379038296
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.1264162940637269
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8155678290783244
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8155678290783244
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9168106953478702
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9168106953478702
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6123955617381452
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.1402217368894123
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.1545610828296593
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4340651894636355
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.34349949600607
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.31121632595210924
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.017660422729030567
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7802500912530318
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7802500912530318
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9448724088267112
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9448724088267112
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5335772269540694
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6019950028592249
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.35112301915009314
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2189515163202541
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6723437819487871
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7865294917690091
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7865294917690091
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7024965864111717
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6928541560097241
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5270831512003628
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4881620781908158
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.23881919557715525
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8730242891805728
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8730242891805728
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.15249789958343207
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.26872364179972774
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5535126598408128
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.43292448236429804
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7449907714636902
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.21756687472984126
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.21650796962125007
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.1831690305818383
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7348655647597071
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.854160641717295
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.854160641717295
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8757086504051845
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8757086504051845
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6588454460418475
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6857568590643456
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.29608143082541194
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6416504838189624
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.42537340485042374
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.0960459554439439
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.22002020881373752
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8584157256553823
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8584157256553823
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7521013480688429
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7521013480688429
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.22143419711475498
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.20689987687991218
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5288983240153189
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.1319429708867056
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5935085609735058
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.906924512429112
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.906924512429112
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8588065957367594
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8588065957367594
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.23570685270752778
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9960491426182918
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9960491426182918
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.08635885627974771
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6113279922107359
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2813748359556615
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.27899157745620873
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.02506243969187505
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.22317031438486412
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4714352933613444
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.539372036249052
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9222797408932769
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9222797408932769
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9227325327368786
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9227325327368786
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.10547991725960071
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8792460741320518
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8792460741320518
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9379140282381009
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9379140282381009
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4124472743439441
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.21062379708968704
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.16248698158415764
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.24748927885715366
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.029876517814648174
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.04890993213022343
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9355329535203736
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9355329535203736
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.02123120630451769
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6859306870802683
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6587113727835678
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.951567236163386
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.951567236163386
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5511745859407039
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.29362063207512334
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6662454351175987
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5432783311916842
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8449312078330471
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8449312078330471
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8470409297947671
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8470409297947671
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9636659478663024
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9636659478663024
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.42626246047620886
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8807288425380834
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8807288425380834
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7878221887565453
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7878221887565453
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4918012388800965
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3832940376123236
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.37555860181614587
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8050787590346008
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8050787590346008
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2884570424631836
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.679103866085365
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3567440769644137
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7549177203006256
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7549177203006256
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.16730514227208904
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9859692180784836
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9859692180784836
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.04697280270953019
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9568638111610593
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9568638111610593
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8777299243432183
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8777299243432183
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.062333799559694536
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5738069873237134
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7270940133141656
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.36260677192003754
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4198394128127789
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7969165168538442
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7969165168538442
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6421647540518503
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7788378218181884
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7788378218181884
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7385659449863858
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.10975453280210923
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6919536933663658
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2745720658030065
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8459393242079035
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8459393242079035
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4171221183917253
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.17682695150163774
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.12738816456198
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6616822272499505
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6160448964768543
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9315817817418806
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9315817817418806
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7393204360962196
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6293454819272031
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8146116405898229
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8146116405898229
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.21750423566688304
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.15745934757905566
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8043728149149145
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8043728149149145
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.21190064735218817
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.41391927746592694
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.24296013234311908
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9493151991112153
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9493151991112153
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.031847040776098345
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.46190113330659177
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3466440255379163
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6987254911640532
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.1548800985933365
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8653501643697652
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8653501643697652
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.36597865595002954
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.09942782923433224
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.12338667067112319
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9384311800401199
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9384311800401199
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.35607551465481446
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6062704861553561
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.010533086172656247
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9034081423820199
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9034081423820199
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.44644402274036743
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9191348584216686
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9191348584216686
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2367044687626697
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.38919837617879993
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6755931528813732
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8838873149210309
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8838873149210309
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.79379747037303
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.79379747037303
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8585090432298996
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8585090432298996
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.49717340418753264
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.0481248502208701
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4948278884586994
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5002074109019601
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.1342031732296306
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3619793937967666
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8047926514177389
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8047926514177389
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.16361555011075524
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6620252793395509
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9449095764732699
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9449095764732699
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5284509222058502
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9827092836510031
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9827092836510031
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6859911719561621
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8013232849783695
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8013232849783695
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.1316663048143717
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.44074017406745025
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7464713523831207
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8610376865552538
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8610376865552538
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7551786897939442
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7551786897939442
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7595883145905661
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7595883145905661
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.13164265938357533
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7449983049410891
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.04315053082445108
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6631929501657926
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.607604539223487
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.21234191335811625
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7535592879319443
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7535592879319443
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7606969718447533
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7606969718447533
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6857275143107093
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3318029514379768
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7434838099108488
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.022479992472016153
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.438739255676054
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.038626354541781094
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.32955973439432995
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.08104470852313861
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5499050160543479
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8875645628154273
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8875645628154273
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.21235481701364123
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.37875908035591577
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.23376016908512798
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.49319990938705793
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.12314196459364235
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5057470360788532
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9022055060417757
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9022055060417757
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.36074807576637924
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.10252462806750617
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4237587801960778
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9663757577244111
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9663757577244111
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5536621043080016
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8525950805788168
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8525950805788168
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6556410940686812
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9625450028197013
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9625450028197013
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9187705262273245
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9187705262273245
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9177832747537668
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9177832747537668
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.935067103649452
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.935067103649452
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2694329962568297
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.39534766302052793
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5442802797016323
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.257473950308059
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.04462882984945504
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2714273011006323
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.943896935031022
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.943896935031022
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7506960053960324
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7506960053960324
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6494492210356753
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.11883606187943618
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.345444655500314
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2925700181507712
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.754400840724306
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.754400840724306
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5378363161217597
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6552023934403046
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3428281462039878
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5215175009752216
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7729321358073444
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7729321358073444
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7677599776676532
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7677599776676532
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.027883519412435054
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7451941447166157
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7233068800614977
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5695044105281949
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.11965190385104207
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5997419626535679
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.864524236098012
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.864524236098012
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4592429938299697
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.183342729844853
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6897398204331225
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.12253871277766482
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7739327322413769
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7739327322413769
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8341910651980265
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8341910651980265
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4283589855939398
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7967260874739407
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7967260874739407
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8522131290362802
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8522131290362802
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7393917047123277
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3791898557622032
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2155579443616238
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.594414773516839
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7290353831160812
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.08870072383777561
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9267084806022793
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9267084806022793
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.28494419273922567
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.13863619902527835
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.10931030270250475
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8727963154026745
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8727963154026745
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.13142034184275542
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2958783496070392
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3671572348342833
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.18462735723085744
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4446661703327962
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8854996960490866
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8854996960490866
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.76400135464337
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.76400135464337
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9357195487989288
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9357195487989288
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.634634397761347
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7787681080481513
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7787681080481513
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9192932917801825
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9192932917801825
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4450540292675996
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2295731949383446
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7977961468848062
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7977961468848062
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.25630005901497
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4894111950941067
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.939214583167209
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.939214583167209
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.799978399793069
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.799978399793069
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2152763168965074
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.09231443914243509
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3774943352974729
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.4141251931786304
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.23702239523030577
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3935185252658898
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.43628917909627496
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7374048943655344
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.30177151922677103
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.47114307611508377
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.45888313900109023
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3109966322189446
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.23120066180499288
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.8879663631633377
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.8879663631633377
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3003522164083252
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7323940741491811
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.6654606073881373
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.16405820999867382
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.08178221673593822
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3335899784342452
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.612472597103187
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.3398451558475183
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9462117810378201
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9462117810378201
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.45691025377789074
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.7333404067290608
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.2868646455584388
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.40641923146097614
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9940556048792693
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9940556048792693
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.07557831915659374
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.44787985203569836
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.9381476784224194
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.9381476784224194
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.018947331435402948
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:***************************** currentProbability <= probability ****************************************
+INFO:valueProbability: 0.75| probability: 0.7949571627291764
+INFO:valueProbability = valueProbability + ratio
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 2| patientId: 1| ratio: 0.25| QoS Requirement: CostQoS
+INFO:ratio: 0.25| valueProbability: 0.75| probability: 0.7949571627291764
+INFO:currentProbability (ratio + valueProbability): 1.0
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.24368995125029302
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.31709051113969644
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************************* currentProbability > probability *****************************************
+INFO:pick: 1| patientId: 1| ratio: 0.75| QoS Requirement: CostQoS
+INFO:ratio: 0.75| valueProbability: 0.0| probability: 0.5412636539987438
+INFO:currentProbability (ratio + valueProbability): 0.75
+INFO:-> invokeCompositeService
+INFO:************* After executing workflow!! *************

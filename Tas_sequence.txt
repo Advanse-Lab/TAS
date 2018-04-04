@@ -1,0 +1,64 @@
+MainGui ->
+    TASStart ->
+        initializeTAS -> 
+            1. create a service register
+            2. start the service register
+            3. create services (alarm, medical analysis, drug). These are atomic services.
+            4. create assistance service which is a composite service specified by means of a workflow. CompositeService and AbstractService are instantiate. 
+    ApplicationControler ->
+        create GUI (all tables, buttons and views)
+        Instance the Assistance Service class (composite service)
+        Start monitoring the workflow (cost)
+---------------------------------------------------------------------------
+******************************* Begin *******************************
+runButton.setOnAction ->
+    tasStart.executeWorkflow(workflowPath, path) -> \\workflow: "TeleAssistanceWorkflow.txt", path: "resources\files" QoS files.
+        Get max steps.
+        Get values of pick composite variable (ratio (probability) and data (integer))
+
+            \\Invoke related composite service to start a workflow with specific QoS requirements 
+            CompositeServiceClient.invokeCompositeService(ProfileExecutor.profile.getQosRequirement(), patientId, pick) -> \\name of QoS, id patient and pick number (data integer)
+                AbstractServiceClient.sendRequest("invokeCompositeService", qosRequirement, params) \\params are pick and idpatient
+                Create Request with message id, endPoint (service.assistance), name of service (service.assistance), invokeCompositeService and params
+                    ServiceProvider.sendMessage(request, serviceEndpoint) -> \\ serviceEndpoint: service.assistance
+                        MessagingService.sendMessage(endPoint, destinationEndPoint, msg) \\msg: request
+                            AbstractService.onMessage() \\messageType: Request (case)
+                                Reflection Call()-> invokeOperation \\ Method from CompositeService
+                                    CompositeService.invokeCompositeService ->
+                                        WorkFlowProbe.notifyWorkflowStarted ->
+                                            AssistanceServiceCostProbe.workflowStarted()
+                                        WorkFlowEngine.executeWorkflow()                    *****************
+                                        WorkFlowProbe.notifyWorkflowEnded ->
+                                            AssistanceServiceCostProbe.workflowEnded()
+ ******************************* End *******************************                           
+  WorkFlowEngine.executeWorkflow() ->
+    TaskGraphInterpreter.interpret(startGraph, qosRequirement, service, params) ->
+        CompositeService.invokeServiceOperation(qosRequirement, call.getServiceName(), call.getOperationName(), params); \\ CALL
+ 
+  do
+        This method do the following:
+            1. Get all services according to the workflow sequence. For instance, if pick==1 then it will retrieve all medicalanalysisservices.
+            2. Filtering services. For instance, CostQoS will return the service with less cost, because that is the quality of service defined. \\method applyQoSRequirement(qosRequirement, services, opName, params) 
+            3. Invoke the operation that corresponds with the service. \\ WorkflowProbe.notifyServiceOperationInvoked(service, opName, params) -> AssistanceServiceCostProbe.serviceOperationInvoked(description, opName, params);
+                (AssitanceServiceCostProbe is the class monitor of the workflow), delays.put(service.getServiceName()+"."+opName, SimClock.getCurrentTime()); NOTE CompositeServiceConfigurarion class, TimeOut: 50ms by default
+            AbstractService.sendRequest(service.getServiceType(), service.getServiceEndpoint(), true, maxResponseTime, opName, params) -> (call atomic service)
+                ServiceProvider.sendMessage(request, destination) ->
+                    MessagingServiceProvider.sendMessage(AbstractMessage msg, String destinationEndPoint) ->
+                        MessagingService.sendMessage(String endPoint, String destinationEndPoint, AbstractMessage msg) ->
+                             AbstractService.onMessage() \\messageType: Request 
+                                Reflection Call()-> invokeOperation \\ Method from AtomicService. 
+                                    AtomicService.invokeOperation() \\ Execute preInvokeOperation, 	result = operation.invoke(this, args) (trigger alarm, change drug doses, etc) and  postInvokeOperation (subclasses of ServiceProfile) 
+            WorkFlowProbe.notifyServiceOperationReturned(service, resultVal, opName, params) ->
+                AssistanceServiceCostProbe.serviceOperationReturned(description, result, opName, params) \\  Do nothing
+            CostProbe.notifyCostSubscribers(service, opName) \\Notify subscribed probes the cost of a service
+            
+ while (resultVal instanceof TimeOutError && retryAttempts < this.getConfiguration().maxRetryAttempts) \\ maxRetryAttempts = 1 by default
+                
+            
+            
+ 
+ 
+ 
+
+
+                            
